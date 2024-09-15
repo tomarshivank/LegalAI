@@ -9,7 +9,8 @@ This project is a sophisticated Legal Assistant designed to provide accurate, up
 
 https://github.com/user-attachments/assets/70430dd8-f9a4-49fa-8d1b-37533e9e06a4
 
-
+## Flow Chart
+![Legalai-flowchart](https://github.com/user-attachments/assets/42a2032f-3bf5-432a-b457-7f98082d942b)
 
 ## Features
 
