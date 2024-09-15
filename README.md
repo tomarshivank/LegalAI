@@ -52,7 +52,7 @@ https://github.com/user-attachments/assets/70430dd8-f9a4-49fa-8d1b-37533e9e06a4
 
 This repo was created during Supreme Court Hackathon 2024 – Innovate India
 
-Team Members: Aryan Garg, [Kartik Sehrawat](https://github.com/iamkartiksehrawat), [Shivank Tomar](https://github.com/tomarshivank) 
+Team Members: [Aryan Garg](https://github.com/aryan-garg0729), [Kartik Sehrawat](https://github.com/iamkartiksehrawat), [Shivank Tomar](https://github.com/tomarshivank) 
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss any changes or improvements.
 
